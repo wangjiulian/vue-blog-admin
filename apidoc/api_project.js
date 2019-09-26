@@ -1,0 +1,1 @@
+define({  "name": "博客",  "version": "1.0.0",  "description": "博客接口文档",  "title": "博客",  "url": "http://api.blog.runsss.com",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2019-09-19T06:19:01.401Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }});

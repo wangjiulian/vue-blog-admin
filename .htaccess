@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|theme|apidoc|robots\.txt|ntunnel_mysql.php|301.php)
+RewriteRule ^(.*)$ index.php/$1 [L]
